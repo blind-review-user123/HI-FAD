@@ -55,7 +55,7 @@ mkdir ASVspoof_LA_cm_protocols
 ## Train
 ```
 # Train Our Model
-python AASIST_waveletencoder_frequency.py --config config/AASIST_waveletencoder_frequency.conf
+python main.py --config config/AASIST_waveletencoder_frequency.conf
 
 # Train Custom Model
 python [YOUT MAIN FILE] --config config/[YOUT CONFIG FILE].conf
