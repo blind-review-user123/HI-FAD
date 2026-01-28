@@ -1,5 +1,4 @@
 # HI-FAD
-# 🔊 DeepFake
 본 폴더는 HI-FAD에 대한 연구 코드를 저장합니다.
 
 ```bash
